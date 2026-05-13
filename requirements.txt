@@ -11,3 +11,4 @@ jupyter
 plotly
 google-generativeai
 python-dotenv
+huggingface_hub
