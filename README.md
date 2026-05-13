@@ -518,8 +518,8 @@ GEMINI_API_KEY=tu_api_key_gemini
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repo.git
-cd tu_repo
+git clone https://github.com/aantoa/churn-retail-mvp.git
+cd churn-retail-mvp
 ```
 
 ---

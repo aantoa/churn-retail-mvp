@@ -1090,7 +1090,7 @@ elif page == "about":
 
         ### <i class="bi bi-github" style="color: #635bff;"></i> Repositorio
 
-        [GitHub - Proyecto Integrador MDS](https://github.com/tu_usuario/tu_repo)
+        [GitHub - Proyecto Integrador MDS](https://github.com/aantoa/churn-retail-mvp)
         """, unsafe_allow_html=True)
 
     with col2:
